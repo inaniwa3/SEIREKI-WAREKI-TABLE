@@ -4,6 +4,10 @@ SEIREKI WAREKI TABLE is a very useful tool to calculate a year from the Christia
 
 Using the [mgl](https://github.com/abagames/mgl "mgl") mini game programming library.
 
+## Demo
+
+[SEIREKI WAREKI TABLE](http://inaniwa3.github.io/SEIREKI-WAREKI-TABLE/ "SEIREKI WAREKI TABLE")
+
 ## Screenshot
 
 ![capture.gif](capture.gif "capture.gif")
