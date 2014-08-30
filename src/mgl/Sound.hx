@@ -305,7 +305,7 @@ class Sound {
 		}
 		#end
 		isPlaying = false;
-		lastPlayTicks = 10;
+		lastPlayTicks = 0;
 	}
 }
 enum SeType {

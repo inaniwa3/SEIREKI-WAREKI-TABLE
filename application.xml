@@ -9,7 +9,7 @@
 	<app main="Main" file="mgl" path="bin" swf-version="11.8" />
 	
 	<window background="#000000" fps="60" />
-	<window width="480" height="480" unless="mobile" />
+	<window width="800" height="480" unless="mobile" />
 	<window orientation="landscape" vsync="false" antialiasing="0" if="cpp" />
 	
 	<!-- classpath, haxe libs -->
