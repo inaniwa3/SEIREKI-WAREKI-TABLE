@@ -6,7 +6,7 @@ Using the [mgl](https://github.com/abagames/mgl "mgl") mini game programming lib
 
 ## Demo
 
-[SEIREKI WAREKI TABLE](http://inaniwa3.github.io/SEIREKI-WAREKI-TABLE/ "SEIREKI WAREKI TABLE")
+[SEIREKI WAREKI TABLE](https://inaniwa3.github.io/SEIREKI-WAREKI-TABLE/ "SEIREKI WAREKI TABLE")
 
 ## Screenshot
 

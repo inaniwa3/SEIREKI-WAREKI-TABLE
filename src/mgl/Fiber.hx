@@ -6,7 +6,7 @@ class Fiber {
 	static public function clear():Bool { return get_cl(); }
 	static public var cl(get, null):Bool; // clear
 	macro static public function doIt(f:Expr, block:Expr) {
-		return macro $f.doBlock(function() { $block; });
+		return macro @:privateAccess $f.doBlock(function() { $block; });
 	}
 	macro static public function d(f:Expr, block:Expr) { // do
 		return macro $f.doBlock(function() { $block; });

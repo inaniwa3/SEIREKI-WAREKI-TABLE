@@ -60,7 +60,9 @@ class Main extends Game {
 			.setWay(0, 360).setSpeed(.05).setCount(20).setSize(.3).add();
 	}
 	function seirekiToWareki(s:Int):String {
-		if (s > 1988) {
+		if (s > 2018) {
+			return "R." + Std.string(s - 2018);
+		} else if (s > 1988) {
 			return "H." + Std.string(s - 1988);
 		} else if (s > 1925) {
 			return "S." + Std.string(s - 1925);
